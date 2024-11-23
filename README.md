@@ -15,7 +15,6 @@ This is a simple Android Chat Application developed using **Firebase** and **Kot
 
 - **Programming Language**: Kotlin
 - **Backend**: Firebase (Authentication & Realtime Database)
-- **UI Optimization**: Jetpack (WindowInsetsCompat, Edge-to-Edge display)
 - **RecyclerView**: For dynamic list rendering
 - **AndroidX**: For modern Android development practices
 
